@@ -1,5 +1,6 @@
 # instagram_scrapper
 
+step:
 1. Download/Clone
    ```sh
    git clone https://github.com/sukaNLP/instagram_scrapper.git
