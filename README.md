@@ -1,4 +1,4 @@
-# instagram_scrapper
+# instagram_scrapper Dengan console log
 
 step:
 1. Download/Clone
@@ -12,3 +12,8 @@ step:
 6. buka Console dari Developer Tools atau tekan F12
 7. klik extension logo (bisanya berbentuk `puzzle`)
 8. tunggu sampai keluar hasilnya di console log (lama proses tergantung jumlah komentar perpostingan)
+
+
+# instagram_scrapper dengan python ipynb
+1. Buka File
+2. Masukkan akun untuk login
