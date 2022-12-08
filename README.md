@@ -15,5 +15,7 @@ step:
 
 
 # instagram_scrapper dengan python ipynb
-1. Buka File
-2. Masukkan akun untuk login
+1. Buka File .ipynb
+2. Masukkan akun untuk login (username/password)
+3. Masukkan Keyword
+4. kemudian run all
