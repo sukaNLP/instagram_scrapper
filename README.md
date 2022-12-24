@@ -17,5 +17,5 @@ step:
 # instagram_scrapper dengan python ipynb
 1. Buka File IG_Scraping.ipynb
 2. Masukkan akun untuk login (username/password)
-3. Masukkan Keyword
+3. Masukkan Keyword/link target postingan
 4. kemudian run all
